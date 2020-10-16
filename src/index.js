@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// remove import to run
+// import './examples/observable';
+// import './examples/computed';
+// import './examples/actions';
+// import './examples/reactions';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
